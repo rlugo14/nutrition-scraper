@@ -1,0 +1,61 @@
+{
+	"name": "Apfel, frisch",
+	"labels": ["Laktosefrei", "Glutenfrei", "Vegetarisch (vegan)"],
+	"ean": null,
+	"manufacturer": "Naturprodukt",
+	"group": "Obst, Obstprodukte",
+	"nutrition_facts": {
+		"energy": 226,
+		"protein": 0.3,
+		"fats": {
+			"total": 0.1,
+			"saturated": null,
+			"monounsaturated": null,
+			"polyunsaturated": null,
+			"trans": null
+		},
+		"carbohydrate": {
+			"total": 14.4,
+			"sugar": 10.3
+		},
+		"fiber": 2,
+		"water": 83,
+		"vitamins": {
+			"C": 12,
+			"A": 0.01,
+			"D": 0,
+			"E": 0.49,
+			"B1": 0.04,
+			"B2": 0.03,
+			"B6": 0.1,
+			"B12": 0
+		},
+		"minerals": {
+			"salt": 0.0025,
+			"iron": 0.2,
+			"zinc": 0.1,
+			"magnesium": 5,
+			"chloride": 2.2,
+			"manganese": 0,
+			"sulfur": 6,
+			"potassium": 119,
+			"calcium": 5.3,
+			"phosphorus": 11,
+			"copper": 0.1,
+			"fluoride": 0.01,
+			"iodine": 8
+		},
+		"measurement": {
+			"name": "gram",
+			"abbreviation": "g"
+		}
+	},
+	"serving": {
+		"name": "1 mittelgroßer (130 g)",
+		"amount": 130,
+		"measurement": {
+			"name": "gram",
+			"abbreviation": "g"
+		}
+	}
+}

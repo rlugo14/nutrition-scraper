@@ -1,0 +1,45 @@
+"use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
+exports.SectionValueType = exports.SectionType = void 0;
+var SectionType;
+(function (SectionType) {
+    SectionType["NUTRITIONS"] = "N\u00E4hrwerte";
+    SectionType["MINERALS"] = "Mineralstoffe";
+    SectionType["VITAMINS"] = "Vitamine";
+})(SectionType = exports.SectionType || (exports.SectionType = {}));
+var SectionValueType;
+(function (SectionValueType) {
+    SectionValueType["CALORIFIC_VALUE"] = "Brennwert";
+    SectionValueType["CALORIES"] = "Kalorien";
+    SectionValueType["PROTEIN"] = "Protein";
+    SectionValueType["CARBOHYDRATES"] = "Kohlenhydrate";
+    SectionValueType["SUGAR"] = "davon Zucker";
+    SectionValueType["FAT"] = "Fett";
+    SectionValueType["FIBER"] = "Ballaststoffe";
+    SectionValueType["CARBOHYDRATE_EXCHANGE"] = "Broteinheit";
+    SectionValueType["CHOLESTEROL"] = "Cholesterin";
+    SectionValueType["BREAD_UNIT"] = "Broteinheiten";
+    SectionValueType["WATER"] = "Wassergehalt";
+    SectionValueType["VITAMIN_C"] = "Vitamin C";
+    SectionValueType["VITAMIN_A"] = "Vitamin A";
+    SectionValueType["VITAMIN_D"] = "Vitamin D";
+    SectionValueType["VITAMIN_E"] = "Vitamin E";
+    SectionValueType["VITAMIN_B1"] = "Vitamin B1";
+    SectionValueType["VITAMIN_B2"] = "Vitamin B2";
+    SectionValueType["VITAMIN_B6"] = "Vitamin B6";
+    SectionValueType["VITAMIN_B12"] = "Vitamin B12";
+    SectionValueType["SALT"] = "Salz";
+    SectionValueType["IRON"] = "Eisen";
+    SectionValueType["ZINC"] = "Zink";
+    SectionValueType["MAGNESIUM"] = "Magnesium";
+    SectionValueType["CHLORIDE"] = "Chlorid";
+    SectionValueType["MANGANESE"] = "Mangan";
+    SectionValueType["SULFUR"] = "Schwefel";
+    SectionValueType["POTASSIUM"] = "Kalium";
+    SectionValueType["FLUORIDE"] = "Fluorid";
+    SectionValueType["PHOSPHOROUS"] = "Phosphor";
+    SectionValueType["COPPER"] = "Kupfer";
+    SectionValueType["CALCIUM"] = "Kalzium";
+    SectionValueType["IODINE"] = "Jod";
+})(SectionValueType = exports.SectionValueType || (exports.SectionValueType = {}));
+//# sourceMappingURL=interfaces.js.map
